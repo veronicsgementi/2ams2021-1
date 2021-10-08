@@ -22,6 +22,10 @@
         <br>
         <input class="form-control form-control-lg" type="text" name="txtnome" placeholder="Nome">
         <br>
+        
+         <br>
+        <input class="form-control form-control-lg" type="text" name="txtendereço" placeholder="Endereço">
+        <br>
        
         <label for="exampleFormControlInput1">Salário Fixo</label>
         <br>
